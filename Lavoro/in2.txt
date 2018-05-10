@@ -1,0 +1,16 @@
+C,Luca
+C,Giorgio
+C,Anna
+C,Matteo
+R,Luca,10,3,Alfa,Giorgio,Anna
+R,Anna,9,12,Gamma,Giorgio
+L,Anna,10,2,Beta
+L,Giorgio,10,2,Alfa
+R,Anna,9,12,Gamma,Luca,Giorgio
+L,Luca,9,8,Gamma
+R,Giorgio,1,5,Beta,Luca,Anna
+R,Matteo,10,3,Beta,Anna,Luca
+L,Luca,10,10,Gamma
+V,Luca
+V,Anna
+V,Matteo

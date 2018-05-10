@@ -1,0 +1,12 @@
+U,Sebastiano,Vigna
+U,Elena,Casiraghi
+U,Corrado,Monti
+L,Robert Heinlein,Stranger in a strange land,1234
+L,George Perec,La vita: istruzioni per l’uso,1111
+L,Italo Calvino,Se una notte d’inverno un viaggiatore,4242
+P,4242,2,3/1/2015,17/1/2015
+P,1111,1,10/1/2015,20/2/2015
+P,1234,0,1/1/2015,14/2/2015
+P,1111,2,21/2/2015,27/2/2015
+D,10/1/2015
+D,22/2/2015

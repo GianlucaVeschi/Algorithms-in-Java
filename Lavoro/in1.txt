@@ -1,0 +1,9 @@
+R,10,3,Alfa,Giorgio,Anna
+L,10,2,Beta
+L,10,2,Alfa
+R,9,12,Gamma,Luca,Giorgio
+L,9,8,Gamma
+R,1,5,Beta,Luca,Anna
+R,10,3,Beta,Matteo,Luca
+PL
+PR
